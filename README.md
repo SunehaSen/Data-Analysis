@@ -1,0 +1,1 @@
+1. The given task was to predict the customer churn, based on customer interactions with an online retail store. Customer churn is the rate at which customers stop doing business with a company over a specific period of time.
